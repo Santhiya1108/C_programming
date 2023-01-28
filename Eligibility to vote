@@ -1,0 +1,12 @@
+#include<studio.h>
+main()
+{
+int age;
+Printf("enter age:");
+Scanf("%d",&age);
+if (age>=18)
+Printf("you can vote!");
+else
+Printf(you can't vote!");
+return 0:
+}
